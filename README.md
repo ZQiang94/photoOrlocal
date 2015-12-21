@@ -12,5 +12,5 @@
 敢保证所有的机型都是这样），所以有的人在读写sdcard1的时候会有异常。
 以上都是我个人见解，有理解不对的可以通过上面的联系方式，QQ或是其他来纠正。欢迎欢迎~~
 
-[image]{https://raw.githubusercontent.com/ZQiang94/photoOrlocal/master/pic01.png}<br>
-[image]{https://raw.githubusercontent.com/ZQiang94/photoOrlocal/master/pic03.png}<br>
+![image](https://raw.githubusercontent.com/ZQiang94/photoOrlocal/master/pic01.png)<br>
+![image](https://raw.githubusercontent.com/ZQiang94/photoOrlocal/master/pic03.png)<br>
