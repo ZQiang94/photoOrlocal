@@ -9,7 +9,10 @@
 一下OSC客户端的源码，内部实现除了对内存卡的判断，还有对sdk版本的适配，做的比较合理，就原封的将内
 部的源码摘取出来，感觉这种实现方式比较合理，其中，我们在对内存卡的读写，有一部分人喜欢对sdcard1读
 写，但是现在的手机大都没有手动插入的sdcard，直接是内置存储卡，这种存储卡在程序中默认为sdcard0（不
-敢保证所有的机型都是这样），所以有的人在读写sdcard1的时候会有异常。
+敢保证所有的机型都是这样），所以有的人在读写sdcard1的时候会有异常。<br>
+<br>
+另外，在OSC客户端中有一些比较优秀的工具类，建议需要的可以down下源码自己看一下。<br>这是源码链接:http://git.oschina.net/oschina/android-app
+<br>
 以上都是我个人见解，有理解不对的可以通过上面的联系方式，QQ或是其他来纠正。欢迎欢迎~~
 
 ![image](https://raw.githubusercontent.com/ZQiang94/photoOrlocal/master/pic01.png)<br>
